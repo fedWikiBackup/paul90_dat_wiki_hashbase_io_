@@ -1,0 +1,76 @@
+{
+  "title": "Thoughts and Observations on Dat based Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ccf3ac0d927771f9",
+      "text": "Here I will collect my thoughts and observations on this dat based Wiki."
+    },
+    {
+      "type": "paragraph",
+      "id": "6e27879959429533",
+      "text": "Some differences with [[Drag and Drop]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Thoughts and Observations on Dat based Wiki",
+        "story": []
+      },
+      "date": 1538902633438
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ccf3ac0d927771f9",
+        "text": "Here I will collect my thoughts and observations on this dat based Wiki."
+      },
+      "id": "ccf3ac0d927771f9",
+      "type": "add",
+      "date": 1538902642891
+    },
+    {
+      "type": "edit",
+      "id": "ccf3ac0d927771f9",
+      "item": {
+        "type": "paragraph",
+        "id": "ccf3ac0d927771f9",
+        "text": "Here I will collect my thoughts and observations on this dat based Wiki."
+      },
+      "date": 1538902763445
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6e27879959429533",
+        "text": "Some differences with [[Drag and Drop]]."
+      },
+      "id": "6e27879959429533",
+      "type": "add",
+      "after": "ccf3ac0d927771f9",
+      "date": 1538903647149
+    },
+    {
+      "type": "edit",
+      "id": "6e27879959429533",
+      "item": {
+        "type": "paragraph",
+        "id": "6e27879959429533",
+        "text": "Some differences with [[Drag and Drop]]."
+      },
+      "date": 1538903721641
+    },
+    {
+      "type": "edit",
+      "id": "6e27879959429533",
+      "item": {
+        "type": "paragraph",
+        "id": "6e27879959429533",
+        "text": "Some differences with [[Drag and Drop]]."
+      },
+      "date": 1538903743880
+    }
+  ]
+}

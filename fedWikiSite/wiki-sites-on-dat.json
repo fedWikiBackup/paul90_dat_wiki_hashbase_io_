@@ -1,0 +1,219 @@
+{
+  "title": "Wiki Sites on Dat",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "cc31482c509e4e24",
+      "text": "Here I maintain a list of wiki sites created using the dat variant of wiki, and shared via our matrix chat room, [https://matrix.to/#/#fedwiki:matrix.org chat]."
+    },
+    {
+      "type": "reference",
+      "id": "9c0cea34ec6ec6e3",
+      "site": "mod3dat-wiki.hashbase.io",
+      "slug": "eric-dobbs",
+      "title": "Eric Dobbs",
+      "text": "[https://wiki.dbbs.co wiki.dbbs.co]"
+    },
+    {
+      "type": "reference",
+      "id": "ff22dea288bef2f8",
+      "site": "wiki.borgesianrhapsody.com",
+      "slug": "ron-wilhelm",
+      "title": "Ron Wilhelm",
+      "text": "[https://github.com/ronw23 GitHub]"
+    },
+    {
+      "type": "reference",
+      "id": "375bb7ff5f225553",
+      "site": "paul90-dat-wiki.hashbase.io",
+      "slug": "paul-rodwell",
+      "title": "Paul Rodwell",
+      "text": "A coder, and curator on [https://github.com/fedwiki github], of fedwiki. I have a number of federated wiki sites:"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Wiki Sites on Dat",
+        "story": []
+      },
+      "date": 1538474104552
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "cc31482c509e4e24",
+        "text": "Here I maintain a list of wiki sites created using the dat variant of wiki, and shared via our matrix chat room, [https://matrix.to/#/#fedwiki:matrix.org chat]."
+      },
+      "id": "cc31482c509e4e24",
+      "type": "add",
+      "date": 1538474111462
+    },
+    {
+      "type": "edit",
+      "id": "cc31482c509e4e24",
+      "item": {
+        "type": "paragraph",
+        "id": "cc31482c509e4e24",
+        "text": "Here I maintain a list of wiki sites created using the dat variant of wiki, and shared via our matrix chat room, [https://matrix.to/#/#fedwiki:matrix.org chat]."
+      },
+      "date": 1538474195000
+    },
+    {
+      "type": "edit",
+      "id": "cc31482c509e4e24",
+      "item": {
+        "type": "paragraph",
+        "id": "cc31482c509e4e24",
+        "text": "Here I maintain a list of wiki sites created using the dat variant of wiki, and shared via our matrix chat room, [https://matrix.to/#/#fedwiki:matrix.org chat]."
+      },
+      "date": 1538474210793
+    },
+    {
+      "item": {
+        "type": "reference",
+        "id": "3b41ad699bf551c5",
+        "site": "paul90-dat-wiki.hashbase.io",
+        "slug": "dat-wiki-sites",
+        "title": "Dat Wiki Sites",
+        "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+      },
+      "id": "3b41ad699bf551c5",
+      "type": "add",
+      "after": "cc31482c509e4e24",
+      "date": 1538474215025
+    },
+    {
+      "type": "edit",
+      "id": "3b41ad699bf551c5",
+      "item": {
+        "type": "reference",
+        "id": "3b41ad699bf551c5",
+        "site": "paul90-dat-wiki.hashbase.io",
+        "slug": "dat-wiki-sites",
+        "title": "Dat Wiki Sites",
+        "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+      },
+      "date": 1538474223262
+    },
+    {
+      "item": {
+        "type": "reference",
+        "id": "28430833d39edd3d",
+        "site": "mod3dat-wiki.hashbase.io",
+        "slug": "dat-wiki-journal",
+        "title": "dat wiki journal",
+        "text": "[[Journal 2018-09-02]] Fork, Flagmatic, `wiki.json`"
+      },
+      "id": "28430833d39edd3d",
+      "type": "add",
+      "after": "3b41ad699bf551c5",
+      "date": 1538474304849
+    },
+    {
+      "type": "edit",
+      "id": "28430833d39edd3d",
+      "item": {
+        "type": "reference",
+        "id": "28430833d39edd3d",
+        "site": "mod3dat-wiki.hashbase.io",
+        "slug": "dat-wiki-journal",
+        "title": "dat wiki journal",
+        "text": "[[Journal 2018-09-02]] Fork, Flagmatic, `wiki.json`"
+      },
+      "date": 1538474307123
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ff22dea288bef2f8"
+      },
+      "id": "ff22dea288bef2f8",
+      "type": "add",
+      "after": "28430833d39edd3d",
+      "date": 1539371360370
+    },
+    {
+      "type": "edit",
+      "id": "ff22dea288bef2f8",
+      "item": {
+        "type": "reference",
+        "id": "ff22dea288bef2f8",
+        "site": "wiki.borgesianrhapsody.com",
+        "slug": "ron-wilhelm",
+        "title": "Ron Wilhelm",
+        "text": "[https://github.com/ronw23 GitHub]"
+      },
+      "date": 1539371445344
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9c0cea34ec6ec6e3"
+      },
+      "id": "9c0cea34ec6ec6e3",
+      "type": "add",
+      "after": "ff22dea288bef2f8",
+      "date": 1539371450699
+    },
+    {
+      "type": "move",
+      "order": [
+        "cc31482c509e4e24",
+        "3b41ad699bf551c5",
+        "28430833d39edd3d",
+        "9c0cea34ec6ec6e3",
+        "ff22dea288bef2f8"
+      ],
+      "id": "9c0cea34ec6ec6e3",
+      "date": 1539371455394
+    },
+    {
+      "type": "edit",
+      "id": "9c0cea34ec6ec6e3",
+      "item": {
+        "type": "reference",
+        "id": "9c0cea34ec6ec6e3",
+        "site": "mod3dat-wiki.hashbase.io",
+        "slug": "eric-dobbs",
+        "title": "Eric Dobbs",
+        "text": "[https://wiki.dbbs.co wiki.dbbs.co]"
+      },
+      "date": 1539371490501
+    },
+    {
+      "type": "remove",
+      "id": "28430833d39edd3d",
+      "date": 1539371500377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "375bb7ff5f225553"
+      },
+      "id": "375bb7ff5f225553",
+      "type": "add",
+      "after": "ff22dea288bef2f8",
+      "date": 1539371505258
+    },
+    {
+      "type": "edit",
+      "id": "375bb7ff5f225553",
+      "item": {
+        "type": "reference",
+        "id": "375bb7ff5f225553",
+        "site": "paul90-dat-wiki.hashbase.io",
+        "slug": "paul-rodwell",
+        "title": "Paul Rodwell",
+        "text": "A coder, and curator on [https://github.com/fedwiki github], of fedwiki. I have a number of federated wiki sites:"
+      },
+      "date": 1539371529277
+    },
+    {
+      "type": "remove",
+      "id": "3b41ad699bf551c5",
+      "date": 1539371539422
+    }
+  ]
+}

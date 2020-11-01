@@ -1,0 +1,240 @@
+{
+  "title": "Drag and Drop",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c0d9ccf55493edc8",
+      "text": "There are a few differences with Drag and Drop that you will notice with Beaker Browser."
+    },
+    {
+      "type": "paragraph",
+      "id": "d680d6dc7ca4adab",
+      "text": "Tabs can be dragged to reorder them. But, they can't be dragged out of the window to create a new window."
+    },
+    {
+      "type": "paragraph",
+      "id": "dbd524a8560d8993",
+      "text": "Page flags can't be dragged between tabs within a window, hovering over another tab will not bring it to the front. This is something that also happens with recent versions of Chrome. The way around this is to have the donor and recipient wiki open in separate windows."
+    },
+    {
+      "type": "markdown",
+      "id": "afe9cf43427c7126",
+      "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+    },
+    {
+      "type": "markdown",
+      "id": "a4d089ce156b5f01",
+      "text": "Dragging from a lineup in Beaker to Chrome or Firefox currently doesn't work. *The latest version of Chrome will simply offer to open the file in Beaker, when a flag is dropped into Chrome from Beaker - Firefox simply ignores it.*."
+    },
+    {
+      "type": "markdown",
+      "id": "750c786bbdc61194",
+      "text": "Currently this can't be worked around by logging into the https wiki with Beaker, as cross window communication via `postMessage` is not working. See [https://github.com/beakerbrowser/beaker/issues/1194 github issue]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Drag and Drop",
+        "story": []
+      },
+      "date": 1538903746444
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c0d9ccf55493edc8",
+        "text": "There are a few differences with Drag and Drop that you will notice with Beaker Browser."
+      },
+      "id": "c0d9ccf55493edc8",
+      "type": "add",
+      "date": 1538903805223
+    },
+    {
+      "type": "edit",
+      "id": "c0d9ccf55493edc8",
+      "item": {
+        "type": "paragraph",
+        "id": "c0d9ccf55493edc8",
+        "text": "There are a few differences with Drag and Drop that you will notice with Beaker Browser."
+      },
+      "date": 1538903867179
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d680d6dc7ca4adab",
+        "text": "Tabs can be dragged to reorder them. But, they can't be dragged out of the window to create a new window."
+      },
+      "id": "d680d6dc7ca4adab",
+      "type": "add",
+      "after": "c0d9ccf55493edc8",
+      "date": 1538903868101
+    },
+    {
+      "type": "edit",
+      "id": "d680d6dc7ca4adab",
+      "item": {
+        "type": "paragraph",
+        "id": "d680d6dc7ca4adab",
+        "text": "Tabs can be dragged to reorder them. But, they can't be dragged out of the window to create a new window."
+      },
+      "date": 1538903944229
+    },
+    {
+      "type": "edit",
+      "id": "d680d6dc7ca4adab",
+      "item": {
+        "type": "paragraph",
+        "id": "d680d6dc7ca4adab",
+        "text": "Tabs can be dragged to reorder them. But, they can't be dragged out of the window to create a new window."
+      },
+      "date": 1538903962591
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dbd524a8560d8993",
+        "text": "Page flags can't be dragged between tabs within a window, hovering over another tab will not bring it to the front. This is something that also happens with recent versions of Chrome. The way around this is to have the donor and recipient wiki open in separate windows."
+      },
+      "id": "dbd524a8560d8993",
+      "type": "add",
+      "after": "d680d6dc7ca4adab",
+      "date": 1538904005783
+    },
+    {
+      "type": "edit",
+      "id": "dbd524a8560d8993",
+      "item": {
+        "type": "paragraph",
+        "id": "dbd524a8560d8993",
+        "text": "Page flags can't be dragged between tabs within a window, hovering over another tab will not bring it to the front. This is something that also happens with recent versions of Chrome. The way around this is to have the donor and recipient wiki open in separate windows."
+      },
+      "date": 1538904225365
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker. But, currently can only be dragged from Beaker into Chrome."
+      },
+      "id": "afe9cf43427c7126",
+      "type": "add",
+      "after": "dbd524a8560d8993",
+      "date": 1538904313860
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "paragraph",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker. But, currently can only be dragged from Beaker into Chrome."
+      },
+      "date": 1538904394271
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker. ~But, currently can only be dragged from Beaker into Chrome.~ *The latest version of Chrome will get in the way, and simply offer to open the file in Beaker*."
+      },
+      "date": 1538989850847
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+      },
+      "date": 1538989853112
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+      },
+      "date": 1538989895213
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+      },
+      "date": 1538989904957
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+      },
+      "date": 1538990001857
+    },
+    {
+      "type": "edit",
+      "id": "afe9cf43427c7126",
+      "item": {
+        "type": "markdown",
+        "id": "afe9cf43427c7126",
+        "text": "Page flags can be dragged from lineups in Chrome and Firefox into Beaker.  \n"
+      },
+      "date": 1538991507873
+    },
+    {
+      "type": "add",
+      "id": "a4d089ce156b5f01",
+      "item": {
+        "type": "markdown",
+        "id": "a4d089ce156b5f01",
+        "text": "Dragging from a lineup in Beaker to Chrome or Firefox currently doesn't work. *The latest version of Chrome will simply offer to open the file in Beaker, when a flag is dropped into Chrome from Beaker - Firefox simply ignores it.*."
+      },
+      "after": "afe9cf43427c7126",
+      "date": 1538991561382
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "750c786bbdc61194",
+        "text": "Currently this can't be worked around by logging into the https wiki with Beaker, as cross window communication via `postMessage` is not working. See [https://github.com/beakerbrowser/beaker/issues/1194 github issue]."
+      },
+      "id": "750c786bbdc61194",
+      "type": "add",
+      "after": "a4d089ce156b5f01",
+      "date": 1539067054423
+    },
+    {
+      "type": "edit",
+      "id": "750c786bbdc61194",
+      "item": {
+        "type": "markdown",
+        "id": "750c786bbdc61194",
+        "text": "Currently this can't be worked around by logging into the https wiki with Beaker, as cross window communication via `postMessage` is not working. See [https://github.com/beakerbrowser/beaker/issues/1194 github issue]."
+      },
+      "date": 1539067118319
+    },
+    {
+      "type": "edit",
+      "id": "750c786bbdc61194",
+      "item": {
+        "type": "markdown",
+        "id": "750c786bbdc61194",
+        "text": "Currently this can't be worked around by logging into the https wiki with Beaker, as cross window communication via `postMessage` is not working. See [https://github.com/beakerbrowser/beaker/issues/1194 github issue]."
+      },
+      "date": 1539067179396
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Getting Started",
+  "story": [
+    {
+      "type": "factory",
+      "id": "3f865dd1fdfdc0cb"
+    }
+  ],
+  "journal": [
+    {
+      "item": {
+        "type": "factory",
+        "id": "3f865dd1fdfdc0cb"
+      },
+      "id": "3f865dd1fdfdc0cb",
+      "type": "add",
+      "date": 1533288960016
+    }
+  ]
+}

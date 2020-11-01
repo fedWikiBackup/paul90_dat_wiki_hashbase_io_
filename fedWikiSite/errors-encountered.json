@@ -1,0 +1,132 @@
+{
+  "title": "Errors Encountered",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "3db2f1441e7fe184",
+      "text": "Here I will try and keep track of the errors that are encountered."
+    },
+    {
+      "type": "markdown",
+      "id": "3f956078eb44cd09",
+      "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved.\n\n    Resolving the `.fork()` has revealed an issue with the promise being resolved before `.fork()` has finished copying the contents of the template to the new wiki. A temporary fix of adding a delay seems to provide a temporary fix."
+    },
+    {
+      "type": "markdown",
+      "id": "953a7bf687646e96",
+      "text": "* Corrupted dat / loosing write access to the wiki's dat. [https://github.com/beakerbrowser/beaker/issues/1266 github]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Errors Encountered",
+        "story": []
+      },
+      "date": 1542699174653
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3db2f1441e7fe184",
+        "text": "Here I will try and keep track of the errors that are encountered."
+      },
+      "id": "3db2f1441e7fe184",
+      "type": "add",
+      "date": 1542699181165
+    },
+    {
+      "type": "edit",
+      "id": "3db2f1441e7fe184",
+      "item": {
+        "type": "paragraph",
+        "id": "3db2f1441e7fe184",
+        "text": "Here I will try and keep track of the errors that are encountered."
+      },
+      "date": 1542699253560
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved."
+      },
+      "id": "3f956078eb44cd09",
+      "type": "add",
+      "after": "3db2f1441e7fe184",
+      "date": 1542699256194
+    },
+    {
+      "type": "edit",
+      "id": "3f956078eb44cd09",
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved."
+      },
+      "date": 1542699583598
+    },
+    {
+      "type": "edit",
+      "id": "3f956078eb44cd09",
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved."
+      },
+      "date": 1542699735983
+    },
+    {
+      "type": "edit",
+      "id": "3f956078eb44cd09",
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved."
+      },
+      "date": 1542699757720
+    },
+    {
+      "item": {
+        "type": "markdown",
+        "id": "953a7bf687646e96",
+        "text": "* Corrupted dat / loosing write access to the wiki's dat. [https://github.com/beakerbrowser/beaker/issues/1266 github]"
+      },
+      "id": "953a7bf687646e96",
+      "type": "add",
+      "after": "3f956078eb44cd09",
+      "date": 1542699764795
+    },
+    {
+      "type": "edit",
+      "id": "3f956078eb44cd09",
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved."
+      },
+      "date": 1542699951883
+    },
+    {
+      "type": "edit",
+      "id": "953a7bf687646e96",
+      "item": {
+        "type": "markdown",
+        "id": "953a7bf687646e96",
+        "text": "* Corrupted dat / loosing write access to the wiki's dat. [https://github.com/beakerbrowser/beaker/issues/1266 github]"
+      },
+      "date": 1542700105931
+    },
+    {
+      "type": "edit",
+      "id": "3f956078eb44cd09",
+      "item": {
+        "type": "markdown",
+        "id": "3f956078eb44cd09",
+        "text": "* While looking at an issue with the WikiGenesis plugin, used to create a new Wiki site, a bug in Beaker 0.8.1 was discovered. Both the UI and API for creating an editable copy, fork, of a dat was only creating the folder structure and not copying the files. [https://github.com/beakerbrowser/beaker/issues/1265 github].\n\n    There is an underlying issue with the plugin, in that I forgot to use `archive.download()` to ensure that the dat was fully downloaded before calling `.fork`. This will be resolved once the Beaker issue has been resolved.\n\n    Resolving the `.fork()` has revealed an issue with the promise being resolved before `.fork()` has finished copying the contents of the template to the new wiki. A temporary fix of adding a delay seems to provide a temporary fix."
+      },
+      "date": 1543854362866
+    }
+  ]
+}

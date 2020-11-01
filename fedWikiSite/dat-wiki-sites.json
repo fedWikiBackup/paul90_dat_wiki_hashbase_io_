@@ -1,0 +1,268 @@
+{
+  "title": "Dat Wiki Sites",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "de99a884094e2a95",
+      "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+    },
+    {
+      "type": "roster",
+      "id": "5cc544dccbeb5747",
+      "text": "Wiki Sites on Dat\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/wiki-sites-on-dat\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\n"
+    },
+    {
+      "type": "pagefold",
+      "id": "58db10273cd24285",
+      "text": "Recent Activity"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382",
+      "text": "ROSTER\nSINCE 12 weeks\nCONVERSATION\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dat Wiki Sites",
+        "story": []
+      },
+      "date": 1533234026392
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de99a884094e2a95",
+        "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+      },
+      "id": "de99a884094e2a95",
+      "type": "add",
+      "date": 1533234035844
+    },
+    {
+      "type": "edit",
+      "id": "de99a884094e2a95",
+      "item": {
+        "type": "paragraph",
+        "id": "de99a884094e2a95",
+        "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+      },
+      "date": 1533234259670
+    },
+    {
+      "type": "edit",
+      "id": "de99a884094e2a95",
+      "item": {
+        "type": "paragraph",
+        "id": "de99a884094e2a95",
+        "text": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+      },
+      "date": 1533234324823
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fe3919bdc74ba8fb",
+        "text": ""
+      },
+      "id": "fe3919bdc74ba8fb",
+      "type": "add",
+      "after": "de99a884094e2a95",
+      "date": 1533234332896
+    },
+    {
+      "type": "remove",
+      "id": "fe3919bdc74ba8fb",
+      "date": 1533234377621
+    },
+    {
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\ndat://journal-hapgood-net-paul90.hashbase.io/\ndat://nrn-io-paul90.hashbase.io\n"
+      },
+      "id": "5cc544dccbeb5747",
+      "type": "add",
+      "after": "de99a884094e2a95",
+      "date": 1533234394414
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\ndat://journal-hapgood-net-paul90.hashbase.io/\ndat://nrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533234437268
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\ndat://journal-hapgood-net-paul90.hashbase.io/\ndat://nrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533234458891
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\ndat://journal-hapgood-net-paul90.hashbase.io/\ndat://nrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533234533836
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\ndat://journal-hapgood-net-paul90.hashbase.io/\ndat://nrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533234562071
+    },
+    {
+      "item": {
+        "type": "pagefold",
+        "id": "58db10273cd24285",
+        "text": "Recent Activity"
+      },
+      "id": "58db10273cd24285",
+      "type": "add",
+      "after": "5cc544dccbeb5747",
+      "date": 1533234643656
+    },
+    {
+      "type": "edit",
+      "id": "58db10273cd24285",
+      "item": {
+        "type": "pagefold",
+        "id": "58db10273cd24285",
+        "text": "Recent Activity"
+      },
+      "date": 1533234656500
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER Paul Rodwell's sites\nSINCE 12 weeks\nCONVERSATION\nNARRATIVE\n"
+      },
+      "after": "58db10273cd24285",
+      "id": "e9e9f102158e1382",
+      "date": 1533234665524
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER\nSINCE 12 weeks\nCONVERSATION\nNARRATIVE\n"
+      },
+      "date": 1533234674985
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Archived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\nnrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533278800359
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Early Adopters\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/early-adopters\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\nnrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533285215040
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Early Adopters\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/early-adopters\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\nnrn-io-paul90.hashbase.io\n"
+      },
+      "date": 1533285237150
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER\nSINCE 12 weeks\nCONVERSATION\n"
+      },
+      "date": 1533285518644
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER\nSINCE 12 weeks\nCONVERSATION\n"
+      },
+      "date": 1533285536805
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Early Adopters\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/early-adopters\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\n"
+      },
+      "date": 1538065259323
+    },
+    {
+      "type": "fork",
+      "date": 1538473819375
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Dat Wiki\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/dat-wiki\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\n"
+      },
+      "date": 1538473843007
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Dat Wiki\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/dat-wiki\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\n"
+      },
+      "date": 1538473899333
+    },
+    {
+      "type": "edit",
+      "id": "5cc544dccbeb5747",
+      "item": {
+        "type": "roster",
+        "id": "5cc544dccbeb5747",
+        "text": "Wiki Sites on Dat\n\nREFERENCES 4f3e24d1522a719f6d93e33e68d121bba6717bb09d8c8964db90b26c9b2d4b6b/wiki-sites-on-dat\n\nArchived Wiki\n\njournal-hapgood-net-paul90.hashbase.io\n"
+      },
+      "date": 1538474101438
+    }
+  ]
+}

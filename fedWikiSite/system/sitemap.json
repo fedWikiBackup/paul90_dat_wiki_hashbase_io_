@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "welcome-visitors",
+    "date": 1542699128297,
+    "title": "Welcome Visitors",
+    "synopsis": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+  },
+  {
+    "slug": "paul-rodwell",
+    "title": "Paul Rodwell",
+    "date": 1460624842978,
+    "synopsis": "A coder, and curator on [https://github.com/fedwiki github], of fedwiki. I have a number of federated wiki sites:"
+  },
+  {
+    "slug": "dat-wiki-sites",
+    "date": 1538474101438,
+    "title": "Dat Wiki Sites",
+    "synopsis": "At our weekly hangout on, 1st August 2018, a number of people were keen to try out the dat version of Federated Wiki. I will try and collect here those dat that are shared in the Federated Wiki [https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org matrix room]."
+  },
+  {
+    "slug": "getting-started",
+    "title": "Getting Started",
+    "date": 1533288960016,
+    "synopsis": "A page with 1 items."
+  },
+  {
+    "slug": "federated-wiki-on-dat",
+    "date": 1538901937893,
+    "title": "Federated Wiki on Dat",
+    "synopsis": "We have been interested in developing a variant of the Federated Wiki client that stores wiki in dat sites for some time. After some early experiments, a port of the existing client was made during 2018."
+  },
+  {
+    "slug": "thoughts-and-observations-on-dat-based-wiki",
+    "date": 1538903743880,
+    "title": "Thoughts and Observations on Dat based Wiki",
+    "synopsis": "Here I will collect my thoughts and observations on this dat based Wiki."
+  },
+  {
+    "slug": "drag-and-drop",
+    "date": 1539067118319,
+    "title": "Drag and Drop",
+    "synopsis": "There are a few differences with Drag and Drop that you will notice with Beaker Browser."
+  },
+  {
+    "slug": "wiki-sites-on-dat",
+    "date": 1539371529277,
+    "title": "Wiki Sites on Dat",
+    "synopsis": "Here I maintain a list of wiki sites created using the dat variant of wiki, and shared via our matrix chat room, [https://matrix.to/#/#fedwiki:matrix.org chat]."
+  },
+  {
+    "slug": "errors-encountered",
+    "date": 1542699951883,
+    "title": "Errors Encountered",
+    "synopsis": "Here I will try and keep track of the errors that are encountered."
+  }
+]
